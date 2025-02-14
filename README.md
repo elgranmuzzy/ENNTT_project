@@ -1,2 +1,2 @@
-# hse_project
-Computational linguistics project
+# ENNTT project
+HSE course on Computational linguistics project
